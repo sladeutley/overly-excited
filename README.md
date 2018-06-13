@@ -1,5 +1,3 @@
-# overly-excited
-
 # Overly Excited
 
 ## Requirements
